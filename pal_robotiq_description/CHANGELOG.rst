@@ -2,6 +2,13 @@
 Changelog for package pal_robotiq_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.3.0 (2026-04-10)
+------------------
+* Add safety controller to prevent the gripper to get stuck in simulation with a small epsilon
+* Add arguments to support the new gazebo
+* Fix gripper link
+* Contributors: thomas.peyrucain, thomaspeyrucain
+
 2.2.0 (2024-08-07)
 ------------------
 
